@@ -1,0 +1,15 @@
+{
+  "name": "discord-selfbot-voice",
+  "version": "1.0.0",
+  "description": "تعلم دخول حساب ديسكورد في روم صوتي 24/7 مع Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.1.4",
+    "@discordjs/voice": "^0.17.0",
+    "sodium-native": "^4.0.4",
+    "opusscript": "^0.0.8"
+  }
+}
